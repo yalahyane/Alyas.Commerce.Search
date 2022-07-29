@@ -1,8 +1,8 @@
 ﻿namespace Alyas.Commerce.Search.Controllers
 {
     using System;
-    using System.Collections.Generic;
     using System.Web.Http.OData;
+    using Commands;
     using Microsoft.AspNetCore.Mvc;
     using Sitecore.Commerce.Core;
 

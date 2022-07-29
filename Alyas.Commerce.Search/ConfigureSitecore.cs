@@ -6,7 +6,6 @@
     using Pipelines.Blocks;
     using Sitecore.Commerce.Core;
     using Sitecore.Commerce.Plugin.Catalog;
-    using Sitecore.Commerce.Plugin.Workflow;
     using Sitecore.Framework.Configuration;
     using Sitecore.Framework.Pipelines.Definitions.Extensions;
 
